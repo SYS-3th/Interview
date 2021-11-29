@@ -286,7 +286,8 @@ prettier는 정해진 규칙대로 코드를 이쁘게 할 수 있는 도구, �
 
 webpack은 모듈 번들러로 파일 확장자에 맞는 로더에게 위임해서 하나로 묶어준다 최종 배포용 파일을 만들어줌
 <script>태그가 여러개 있을 때 순서보장도 중요하기 때문에 이런것도 Webpack에서 해줌.
- 
+	
+	
 ### 패키지매니저로 어떤거 사용? npm
 npm과 yarn은 어떤게 다른가?
 
@@ -362,3 +363,13 @@ var fun = funcion(b) {
 fun(a)
 console.log(a.a) // 1
 ```
+### null vs undefined ?
+기본적으로 둘다 값이 없음을 나타낸다.
+undefiend는 데이터 타입이자 값을 나타냄.  정의되지 않은 것
+null은 명시적으로 값이 비어있음을 나타내는데 사용
+undefined는 변수를 선언만 한더라도 할당되지만, null은 변수를 선언한 후에 null로 값을 바꾼다.
+
+### inline vs inline block ?
+inline은 text크기만큼만 공간을 점유하고 줄바꿈을 하지않음.
+inline-block은 inline속성과 block속성의 특징을 둘다 가지고 있다. inline속성과 다르게 width,height 적용 가능하고 line-height를 커스텀하게 적용할 수 있다.
+	
