@@ -1,16 +1,19 @@
 # 면접질문 정리
 
-## [프론트앤드](https://github.com/SYS-3th/Interview/blob/d61624d37cfd6360cceb6426cfa9c83bd499cd69/frontend.md)
-
-## 백엔드 
-
+## 공통 
 ### 인터넷 
-- dms와 작동원리
+- [dms와 작동원리]()
 - 도메인 네임이란
 - 호스팅이란
 - 인터넷 작동원리
 - http란
 - 브라우저와 동작원리
+
+## 프론트 엔드 
+
+## 백엔드 
+
+
 ### 기본 프론트엔드 지식
 - html
 - css
