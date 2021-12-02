@@ -2,7 +2,7 @@
 
 ## 공통 
 ### 인터넷 
-- [dms와 작동원리]()
+- [dms와 작동원리](https://github.com/SYS-3th/Interview/blob/c41dbe6da4cc9164f536d31d93c82b55be52b4e4/dms.md)
 - 도메인 네임이란
 - 호스팅이란
 - 인터넷 작동원리
