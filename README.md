@@ -73,7 +73,7 @@
 - ssl/tls
 - owasp보안정책
 
-### 테스팅
+### [태스팅](https://github.com/SYS-3th/tdd/blob/82864da4d14e5cca26d8c6734a920332cc088ccf/README.md)
 - 통합테스트
 - 단위테스트
 - 기능테스트
